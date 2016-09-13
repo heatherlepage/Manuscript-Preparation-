@@ -1,0 +1,160 @@
+LRH:  JAHN ET AL.
+RRH: NORTH AMERICAN FLYCATCHER MIGRATION
+
+MIGRATORY PATTERNS AND WINTERING AREAS OF INDIVIDUAL TYRANNUS FLYCATCHERS BREEDING IN THE GREAT PLAINS OF NORTH AMERICA
+
+
+ALEX E. JAHN, 1,2, 13 JAMES W. FOX,3,4  MICHAEL S. HUSAK,5 DANIEL H. KIM, 6 DIANE V. LANDOLL,7 JESÚS PINTO LEDEZMA,8 HEATHER K. LEPAGE, 9 DOUGLAS J. LEVEY, 1,10 MICHAEL T. MURPHY,11 AND ROSALIND B. RENFREW 12 
+
+1Department of Biology, University of Florida, Gainesville, Florida 32611, USA
+2Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA), Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires y CONICET, Ciudad Universitaria, C1428EHA, Buenos Aires, Argentina
+3British Antarctic Survey, Natural Environment Research Council, High Cross Madingley Road, Cambridge, CB3 0ET, United Kingdom
+4Migrate Technology Ltd, P.O. Box 749, Cambridge, CB1 0QY, United Kingdom
+5Department of Biological Sciences, Cameron University, Lawton, Oklahoma 73505, 
+
+USA 
+
+6Platte River Whooping Crane Maintenance Trust, Wood River, Nebraska, USA  
+
+7Department of Zoology, University of Oklahoma, Norman, Oklahoma 73019, USA
+
+
+
+      ABSTRACT.?Descriptions of intra- and interspecific variation in migratory patterns of closely related species are rare yet valuable because they can help assess the degree to which migratory behaviors are fixed or flexible. We report data on timing and location of migratory routes and wintering areas, and on migratory speed and phenology of Eastern Kingbirds (EAKI ; Tyrannus tyrannus) from Nebraska and Oklahoma, and Western Kingbirds (WEKI ; T. verticalis), and Scissor-tailed Flycatchers (STFL; T. forficatus) from Oklahoma. Across these species, fall departures were highly asynchronous; WEKIs left in late July, EAKIs primarily in September, and STFLs mainly in mid-October. WEKIs migrated >1,400 km to the Sonoran Desert in northwestern Mexico, while most EAKIs migrated to the Amazon Basin (Bolivia and Brazil), >6,400 km from their breeding site. STFLs flew directly to Central America (El Salvador, Guatemala, Honduras and Nicaragua), ~2,600 km from the breeding site, and remained until early April before returning to Oklahoma. WEKIs and EAKIs used two (central Mexico and Central America [Guatemala to Nicaragua]) and one (northwestern South America [Colombia, Ecuador, and Peru]) additional site for extended periods, respectively, before returning to the United States in April. Timing of migration appears tightly linked to molt. Early departure of WEKIs from the breeding site appears timed so that they molt in Sonora during the Mexican monsoon, whereas STFLs remain at their breeding site to complete molt in late summer when insect prey are abundant. EAKIs delay their molt until reaching South America where, possibly, abundant fruit supports molt.
+
+
+
+
+UNTIL RECENT YEARS it has been nearly impossible to track movements of individual migrant songbirds, but this changed with the application of miniature solar geologger technology (Stutchbury et al. 2009, Bridge et al. 2011). In just a single year, geologgers can yield data comparable to banding tens of thousands of birds over decades (e.g., Ryder et al. 2011). Geologger technology has revolutionized our understanding of the migratory and overwintering strategies of songbirds worldwide, as demonstrated by many recent papers (e.g., Delmore et al. 2012, Schmaljohann et al. 2012, Seavy et al. 2012, Stach et al. 2012, Tøttrup et al. 2012), including those in this special feature of The Auk. Geologgers provide spatial and temporal data from across the annual cycle of migratory birds that, when combined with information on timing of reproduction and molt, produce an integrated view of annual events in a bird's life. Such data are vital for understanding the evolution of life history diversity, and on a more practical level, for developing robust migratory connectivity (e.g., Fraser et al. 2012) and migratory network models (Taylor and Norris 2010). Data on migratory movements, including the identification of migratory stopover locations (e.g., Bayly et al. 2012), is vital for comprehensive species management strategies (Peterjohn and Sauer 1999, Leu and Thomposon 2002, Faaborg et al. 2007, Møller et al. 2008). The potential contribution of geologgers to these goals cannot be overstated. 
+   Indeed, our understanding of migratory bird biology in the nonbreeding season evolves with technological advances. For instance, Schwartz (1964) used band returns to document high site fidelity and territoriality for some species of wintering migrant birds (see also Bates 1992), while later studies used radio telemetry to reveal that sizeable floater populations sometimes exist in otherwise territorial species (Rappole and Warner 1980, Winker et al. 1990). Regardless, our perception was that migrants overwintered at a single geographic site. Geologgers have shown this to be true of some species (e.g., Wood Thrushes [Hylocichla mustelina]; Stutchbury et al. 2009), but they have also yielded the surprising result that a phylogenetically diverse group of species, including Veeries (Catharus fuscescens, Heckscher et al. 2011), Swainson's Thrushes (C. ustulatus, Delmore et al. 2012), Red-backed Shrikes (Lanius corullio, Tøttrup et al. 2012), and Fork-tailed Flycatchers (T. savana, Jahn et al., this issue) utilize multiple wintering sites, the significance of which has yet to be elucidated. Geologgers have also yielded data to describe individual variability and year-to-year variation in the movements of individuals (Stanley et al. 2012). 
+   Of the 34 species of tyrant flycatchers (Tyrannidae) breeding north of Mexico, 28 (82%) overwinter in the Neotropics (Sibley 2000). Although widely distributed across North America, details of their life cycle remain rudimentary because previous migration research on flycatchers has relied solely on banding and specimen collections to infer migratory routes, timing of migration, and migratory tendency (e.g., Chesser 2005, Cooper et al. 2009, Colorado 2010, Capllonch et al. 2011, Jahn et al. 2012). Most appear to complete their annual molt away from the breeding grounds (Leu and Thompson 2002), but the degree to which tyrannids overlap molt and migration, or complete the entire process on the wintering grounds is not known. The exception to this generalization is the Western Kingbird (Tyrannus verticalis); studies of museum specimens found adults vacate the breeding grounds for the region of the Mexican monsoon to complete their molt in late summer (Barry et al. 2009). Such details are lacking in other species, but even more pressing is our need to delineate migratory phenology and pathways as well as the location of tropical wintering grounds, which remain unknown for even well-studied species such as the Western Kingbird. 
+   Large tyrannids such as kingbirds (Tyrannus spp.) are ideal subjects for the application of geologgers because their body mass (>30 g) allows them to carry geologgers relatively easily. High annual survival and high site fidelity (Murphy 1996), and their use of open habitats are also desirable qualities for geologger use. Here we use geologgers to describe variation in the timing of migration, distance and speed of migration, and the location and number of sequential wintering areas occupied by individual Eastern Kingbirds (T. tyrannus), Western Kingbirds (T. verticalis), and Scissor-tailed Flycatchers (T. forficatus), three species of tyrannids that have overlapping breeding ranges across the southern Great Plains of North America. Our goals are to (1) describe interspecific variation in migratory biology of a group of closely related species that overlap greatly in body size, morphology, and ecology (Murphy 1989), (2) compare autumn and spring migratory behavior, and (3) integrate the data that we collected with information on annual molt to provide a comprehensive picture of the annual cycle of these species.
+   
+METHODS
+
+Study sites.?
+      Field methods.? 
+      Analytical methods.?We analyzed data from geologgers using the single threshold method (Lisovski et al. 2012) with the program suite BASTrak (BAS). We adjusted for clock drift and visually inspected sunrise and sunset transitions, deleting those with very shallow slopes or with peaks in light intensity within 30 minutes of sunrise or sunset. Geologger sensitivity was calibrated using on-bird data for 10 days immediately after deployment, while birds were still at the breeding sites and usually raising nestlings or fledglings. Geologgers were calibrated individually, except for Western Kingbirds. Due to highly variable transition data for most Western Kingbirds, we used data from one Western Kingbird with good transition data to calibrate the geologgers of all Western Kingbirds. For this calibration period, we calculated a mean error between the location of the birds (hereafter, their "point locality") and the location of the breeding site as 174 km (± 9.3 SE) for Eastern Kingbirds, 133 km (± 34.8 SE) for Western Kingbirds, and 104 km (± 8.5 SE) for Scissor-tailed Flycatchers. We used midnight position fixes because these species are primarily diurnal migrants (Peterjohn 1989, Stevenson and Anderson 1994).
+      Throughout the course of the nonbreeding season, there were extended periods (> 20 days) when the longitude of a given bird's point localities did not vary widely (typically <8° longitude). Because light-level estimations of longitude are more accurate than those of latitude (Fudickar et al. 2012, Lisovski et al. 2012), we define these as stationary periods (i.e., wintering areas), similar to previous studies (e.g., Heckscher et al. 2011, Stanley et al. 2012). We defined the departure date from the breeding site or from wintering areas as the first date on which there was a large change in longitude (typically =2°) without subsequent returns, and defined arrival date on a wintering area as the first day the longitude was within the range of longitudes recorded for the stationary period (excluding outliers). Finally, we defined arrival at the breeding site in spring as the first day the longitude was within a degree of longitude of the previous year's breeding site. For some birds, changes in longitude were ambiguous and we were unable to calculate arrival and departure dates (and therefore speed of migration; Tables 1 and 2).  
+      We defined fall migration distance as the straight-line distance between the breeding site and the average location of all the point localities that made up the wintering area. For birds with more than one wintering area, we used the first wintering area. We define spring migration distance as the straight-line distance between the average location of the point localities that made up the wintering area (for birds with more than one wintering area, we used the last wintering area) and the location of the breeding site. The migration distances we report are therefore minimum distances traveled because birds likely did not migrate in a straight line between sites (Figs. 1-3). We define migration speed as the migration distance in fall or spring divided by the duration in days of the entire fall or spring migration period. Because of this, and because migration distances are minimum values, the speeds we report represent the minimum speed of the entire fall or spring migration journey.
+      To map wintering area(s) and migratory routes, we excluded point localities (1) from 15 days before and after the fall and spring equinoxes (Fox 2010) because of high latitude uncertainties, and those (2) outside of the known species' range (based on InfoNatura [2007] and eBird [2012]), (3) that required movements of =1,500 km-d (which is highly unlikely given our knowledge of these species), and (4) over the ocean (except during migration). We did not create maps of wintering areas or migratory routes of some birds, or calculate their distance or speed of migration (Table 2) because we were unable to determine the location of at least one wintering area. This was usually because all point localities during that time of winter were primarily north or south of the known winter range (InfoNatura 2007). We suspect that the anomalous points were a result of artificially short photoperiods created by shading that resulted from extreme topography (i.e., shading due to nearby mountains results in shorter detected day lengths and therefore latitudinal error [Lisovsky et al. 2012]). Indeed, central Mexico and northern Central America, where Scissor-tailed Flycatchers and Western Kingbirds migrated through and overwintered, are largely hilly (e.g., Western Kingbirds occupy arid valleys in winter, Phillips 1994), and the Andes Mountains make up a large portion of the Eastern Kingbirds' second wintering area in northwestern South America. 
+      We mapped wintering areas using kernel density estimator analysis (Silverman 1986, Terrell and Scott 1992) in the Spatial Analysis tool of ArcMap, v 9.3 (ESRI, Redlands, California), using a search radius of 200 km and a grid cell size of 2 km (e.g., Bächler et al. 2010). We estimated the location of migratory routes using point localities that were consistent with the direction of migration and that did not require reversals in migration or successive days over the ocean. We then mapped routes as straight lines between these point localities using Hawth´s Analysis Tools for ArcGIS 9.3 (Beyer 2004). All statistics are reported as mean ± SE.
+      
+RESULTS
+
+Return and recovery rates.- 
+      Eastern Kingbirds.- 
+      Western Kingbirds. -
+	Scissor-tailed Flycatchers. -
+
+DISCUSSION
+
+Future directions
+
+Emerging technologies such as light-level geologgers offer a new way to understand the lives of migratory animals and will likely play an important role in both descriptive and hypothesis-driven research on migration in the near future (Bridge et al. 2011). Given that basic patterns, such as seasonal population connectivity, remain unresolved for most migrant passerines, descriptions of migratory movements and wintering areas remain a priority. Such descriptions facilitate addressing such broad research questions as (1) What drives the location and use of multiple wintering areas and how do events in each area carry-over to the breeding season? (e.g., Fraser et al. 2012, MacDonald et al. 2012), (2) What time of year represents the greatest bottleneck to survival for different populations? (Jahn and Cueto 2012), (3) What is the relationship between molt, migration and climate? For example, northwestern Mexico -- the molt migration stopover site of Western Kingbirds -- experiences higher than normal rainfall during the El Niño phase of the global climate cycle than during the La Niña phase (Magaña et al. 2003). Therefore, given that Western Kingbirds go there to take advantage of the late summer monsoon to molt (Barry et al. 2009), it may represent a better place to molt in some years than in others; and (4) How does the relationship among migration timing and speed, and location of migratory routes and wintering areas vary between the sexes, with age, and among years? 
+      Understanding the complex life histories of migratory passerines, some of which may be better classified as intra-tropical migrants during the non-breeding season (e.g., Veeries [Heckscher et al. 2011], Swainson's Thrushes [Delmore et al. 2012], and Western and Eastern kingbirds in the present study), will require research at a finer grain and at broader spatial and temporal scales. And as our understanding of their movements, physiology and ecology during the non-breeding season accumulates, so too will our ability to develop appropriate conservation and management plans for these birds throughout their range.
+ACKNOWLEDGMENTS
+
+LITERATURE CITED
+
+BÄCHLER, E., S. HAHN, M. SCHAUB, R. ARLETTAZ, L. JENNI, J. W. FOX, V. AFANASYEV AND F. LIECHTI. 2010. Year-round tracking of small trans-saharan migrants using light-level geolocators. PLoS ONE 5:e9566.
+BARRY, J. H., L. K. BUTLER, S. ROHWER, AND V. G. ROHWER. 2009. Documenting 
+molt-migration in Western Kingbird (Tyrannus verticalis) using two measures of collecting effort. Auk 126:260-267.
+BATES, J. M.  1992.  Winter territorial behavior of Gray Vireo. Wilson Bulletin 104: 425-
+433.
+BAYLY, N. J., C. GÒMEZ, K. A. HOBSON, A. M. GONZÁLEZ, AND K. V. ROSENBERG.  2012. Fall migration of the Veery (Catharus fuscescens): Determining the energetic importance of a stopover site.  Auk  129:449-459.
+BEYER, H. L. 2004. Hawth's analysis tools for ArcGIS. Available at http://www.spatialecology.com/htools, accessed 24 July 2011.
+BRIDGE, E.S., K. THORUP, M. BOWLIN, P. B. CHILSON, R. H. DIEHL, R. W. FLÉRON, P. HARTL, R. KAYS, J. F. KELLY, W. D. ROBINSON, AND M. WIKELSKI. 2011.Technology on the move: recent and forthcoming innovations for tracking migratory birds. BioScience 61:689-698.
+BROWN, D. R., AND T. W. SHERRY. 2006. Food supply controls the body condition of a 
+migrant bird wintering in the tropics. Oecologia 149:22-32. 
+CAPLLONCH, P., M. E. ÁLVAREZ, P. G. BLENDINGER. 2011. Sobre la migration de Elaenia albiceps chilensis (Aves: Tyrannidae) en Argentina. Acta Zoológica Lilloana 55:229-246.
+CHESSER, R. T. 2005. Seasonal distribution and ecology of South American austral migrant flycatchers. Pages 168-181 in R. Greenberg and P. P. Marra, editors. Birds of Two Worlds. Johns Hopkins University Press, Baltimore, Maryland, USA.
+COLORADO, G. J. 2010. Fall migration of Empidonax flycatchers in northwestern Colombia. Journal of Field Ornithology 81:259-266.
+COOPER N. W., M. T. MURPHY, AND L. J. REDMOND.  2009. Age- and sex- dependent
+spring arrival dates of eastern kingbirds. Journal of Field Ornithology 80:35-41.
+DELMORE, K. E., J. E. FOX, AND D. E. IRWIN. 2012. Dramatic intraspecific differences in migratory routes, stopover sites and wintering areas, revealed using light-level geolocators. Proceedings of the Royal Society B. doi: 10.1098/rspb.2012.1229
+EBIRD. 2012. eBird: An online database of bird distribution and abundance [web application]. Version 2. eBird, Ithaca, New York. Available: http://www.ebird.org/content/ebird. (Accessed: 25 November, 2012).
+FAABORG, J., K. M. DUGGER, AND W. J. ARENDT. 2007. Long-term variation in the winter 
+resident bird community of Guánica Forest, Puerto Rico: lessons for measuring and monitoring species richness. Journal of Field Ornithology 78:270-278.
+FOX, J. W. 2010 Geolocator manual. Version 8. British Antarctic Survey, Cambridge, United Kingdom.
+FRASER, K. C., B. J. M. STUTCHBURY, C. SILVERIO, P. M. KRAMER, J. BARROW, D. 
+NEWSTEAD, N. MICKLE, B. F. COUSENS, J. C. LEE, D. M. MORRISON, T. SHAHEEN, P. MAMMENGA, K. APPLEGATE, AND J. TAUTIN. 2012. Continent-wide tracking to determine migratory connectivity and tropical habitat associations of a declining aerial insectivore. Proceedings of the Royal Society B 279:4901-4906.
+FUDICKAR, A. M., M. WIKELSKI, AND J. PARTECKE. 2012. Tracking migratory songbirds: accuracy of light-level loggers (geolocators) in forest habitats. Methods in Ecology and Evolution 3:47-52.
+GAMBLE, LAWRENCE R. AND TIMOTHY M. BERGIN. 2012. Western Kingbird (Tyrannus verticalis), The Birds of North America Online (A. Poole, Ed.). Ithaca: Cornell Lab of Ornithology http://bna.birds.cornell.edu/bna/species/227
+HECKSCHER, C. M., S. M. TAYLOR, J. W. FOX, AND V. AFANASYEV. 2011. Veery (Catharus fuscescens) wintering locations, migratory connectivity, and a revision of its winter range using geolocator technology. Auk 128:531-542.
+HOWELL, S. N. G. AND S. WEBB. 1995. A guide to the birds of Mexico and northern 
+Central America. Oxford Univ. Press, New York.
+JAHN, A.E. AND V. R. CUETO. 2012. The potential for comparative research across New World bird migration systems. Journal of Ornithology (Suppl 1):S199-S205.
+JAHN, A.E., S.P. BRAVO, V.R. CUETO, D.J. LEVEY, AND M.V. MORALES. 2012. Patterns of 
+partial avian migration in northern and southern temperate latitudes of the New 
+World. Emu 112:17-22.
+JAHN, A.E., D.J. LEVEY, AND V.R. CUETO. 2013. Long-distance bird migration within 
+South America revealed by light-level geolocators. Auk.
+INFONATURA: ANIMALS AND ECOSYSTEMS OF LATIN AMERICA [WEB APPLICATION]. 2007. Version 5.0. Arlington, Virginia (USA): NatureServe. Available: http://www.natureserve.org/infonatura. (Accessed: November 30, 2012).
+Leu, M. and C. W. Thompson. 2002. The potential importance of migratory stopover sites as flight feather molt staging areas: a review for neotropical migrants. Biological Conservation 106:45-56. 
+LISOVSKI, S., C.M. HEWSON, R.H.G. KLAASSEN, F. KORNER-NIEVERGELT, M.W. KRISTENSEN, AND S. HAHN. 2012. Geolocation by light: accuracy and precision affected by environmental factors. Methods in Ecology and Evolution doi: 10.1111/j.2041-210X.2012.00185.x
+MACDONALD, C.A., K. C. FRASER, H. G. GILCHRIST, T. K. KYSER, J. W. FOX, O. P. LOVE. 2012. Strong migratory connectivity in a declining Arctic passerine. Animal Migration 1:23-30
+MAGAÑA, V. O., J. A. AMADOR, AND S. MEDINA. 1999. The midsummer drought over Mexico and Central America. Journal of Climate 12:1577-1588
+MAGAÑA, V. O., J. L. VAZQUEZ, J. L. PÉREZ, AND J. B. PÉREZ. 2003. Impact of El Niño on precipitation in Mexico. Geofísica Internacional 42:313-330.
+MØLLER, A. P., D. RUBOLINI, AND E. LEHIKOINEN. 2008. Populations of migratory bird species that did not show a phenological response to climate change are declining. Proceedings of the National Academy of Sciences, 105:16195-16200. 
+MONROE, JR., B. L. 1968. A distributional survey of the birds of Honduras. 
+Ornithological Monographs 7.
+MOORE, F. R., P. KERLINGER, AND T. R. SIMONS. 1990. Stopover on a Gulf coast barrier 
+island by spring trans-Gulf migrants. Wilson Bulletin 102:487-500.
+MORTON, E. S. 1971. Food and migration habits of the Eastern Kingbird in Panama. Auk 
+88:925-926.
+MORTON, E. S. 1980. Adaptations to seasonal changes by migrant land birds in the Panama Canal Zone. Pages 437-453 in Migrant birds in the neotropics: ecology, behavior, distribution, and conservation. (Keast, A. and E. S. Morton, Eds.) Smithson. Inst. Press, Washington, D.C.
+MURPHY, M. T.  1986.  Temporal components of reproductive variability in Eastern 
+      Kingbirds (Tyrannus tyrannus).   Ecology  67:1483-1492.
+MURPHY, M. T.  1989.  Life history variability of North American breeding tyrant 
+      flycatchers: Phylogeny, size, or ecology?  Oikos 54:3-14.
+MURPHY, M.T. 1996. Survivorship, breeding dispersal and mate fidelity in Eastern 
+	Kingbirds.  Condor  98:83-93
+OBERHOLSER, H. C. 1974. The birds of Texas. Vol. 2. University of Texas Press, Austin. PETERJOHN, B. G. 1989. The birds of Ohio. Indiana Univ. Press, Bloomington. 
+PETERJOHN, B. G., AND J. R. SAUER. 1999. Population status of North American grassland birds from the North American Breeding Bird Survey, 1966-1996. Studies in Avian Biology 19:27-44.
+PHILLIPS, A. R. 1994. A tentative key to the species of kingbirds, with distributional 	notes. Journal of Field Ornithology 65:295-306.
+PYLE, P. 1997. Identification guide to North American birds. Part I. Slate Creek Press, Bolinas, California.
+RALPH, C.J., G.R. GUEPEL, P. PYLE, T.E. MARTIN, AND D.F. DESANTE. 1993. Handbook of field methods for monitoring landbirds. U.S. Forest Service General Technical Report PSW-GTR-144. Albany, California, USA.
+RAPPOLE, J. H., AND A. R. TIPTON. 1991. New harness design for attachment of radio 
+transmitters to small passerines. Journal of Field Ornithology 62:335-337.
+RAPPOLE, J. H., AND D. W. WARNER.  1980.  Ecological aspects of migrant bird behavior in Veracruz, Mexico. Pp. 353-393 In Migrant Birds in the Neotropics: Ecology, behavior, distribution, and conservation (A. Keast and E. S. Morton, eds.). Smithsonian Institution Press, Washington, D.C.
+REGOSIN, J. V. 1998. Scissor-tailed Flycatcher (Tyrannus forficatus), The Birds of North America Online (A. Poole, Ed.). Ithaca: Cornell Lab of Ornithology; Retrieved from the Birds of North America Online: http://bna.birds.cornell.edu/bna/species/342  
+REDMOND, L. J., AND M. T. MURPHY. 2012. Using complementary approaches to 
+estimate survival of juvenile and adult Eastern Kingbirds.  Journal of Field 
+   Ornithology 83:247-259.
+RENFREW, R. B., D. KIM, N. PERLUT, J. SMITH, J. FOX, AND P. P. MARRA. In press. 
+Phenological matching across hemispheres in a long-distance migratory bird. Diversity and Distributions.
+RIDGELY, R. S. AND J. A. GWYNNE. 1989. A guide to the birds of Panama, with Costa 	Rica, Nicaragua, and Honduras. 2nd ed. Princeton Univ. Press, Princeton, N.J.
+ROBINS, J. D.  1970.  The relationship of food supply to the timing of breeding in aerial 
+	foragers. Kansas Ornithological Society Bulletin  21:9-15.
+ROHWER, S., AND K. BROMS. 2012. Use of feather loss intervals to estimate molt duration 
+	and to sample feather vein at equal time intervals through the primary 
+	replacement.  Auk  129:653-659.
+ROHWER, S., L. K. BUTLER, AND D. R. FROEHLICH. 2005. Ecology and demography of 
+east-west differences in molt scheduling of Neotropical migrant passerines. Pages 87-105 in Birds of Two Worlds: The Ecology and Evolution of Migratory Birds (R. Greenberg and P. P. Marra, Eds.). Johns Hopkins University Press, Baltimore, Maryland.
+RYDER, T. B., J. W. FOX, AND P. P. MARRA. 2011. Estimating migratory connectivity of Gray Catbirds (Dumatella carolinensis) using geolocator and mark-recapture data. Auk 128:448-453.
+SCHMALJOHANN, H., M. BUCHMANN, J. W. FOX, AND F. BAIRLEIN. 2012. Tracking migration routes and the annual cycle of a trans-Sahara songbird migrant. Behavioral Ecology and Sociobiology 66:915-922.
+SCHWARTZ, P.  1964. The Northern Waterthrush in Venezuela.  Living Bird  
+	3:187-231.
+SEAVY, N. E., D. L. HUMPLE, R. L. CORMIER, AND T. GARDALI. 2012. Establishing the breeding provenance of a temperate-wintering North American passerine, the Golden-Crowned Sparrow, using light-level geolocation. PLoS ONE 7: e34886. doi:10.1371/journal.pone.0034886
+SHARPE, R. S., W. R. SILCOCK, AND J. G. JORGENSEN. 2001. Birds of Nebraska: Their 
+Distribution and Temporal Occurrence. University of Nebraska Press. Lincoln, Nebraska.
+SIBLEY, D. A. 2000. The Sibley Guide to Birds. Alfred A. Knopf, New York, USA.
+SILVERMAN, B. W. 1986. Density estimation for statistics and data analysis. Chapman and Hall, New York.
+STACH, R., S. JAKOBSSON, C. KULLBERG, AND T. FRANSSON. 2012. Geolocators reveal three consecutive wintering areas in the thrush nightingale. Animal Migration DOI: 10.2478/ami-2012-0001
+STANLEY, C. Q., MACPHERSON, M., FRASER, K. C., MCKINNON, E. A., & STUTCHBURY, B. J. M. 2012. Repeat Tracking of Individual Songbirds Reveals Consistent Migration Timing but Flexibility in Route. PLoS ONE, 7(7), e40688. doi: 10.1371/journal.pone.0040688
+STEVENSON, H. M. 1957. The relative magnitude of the trans-gulf and circum-gulf spring migrations. Wilson Bulletin 69:39-77.
+STEVENSON, H. M. AND B. H. ANDERSON. 1994. The birdlife of Florida. University of Florida Press, Gainesville.
+STUTCHBURY, B. J. M, S. A. TAROF, T. DONE, E. GOW, P. M. KRAMER, J. TAUTIN, J. W. FOX, AND V. AFANASYEV. 2009. Tracking long-distance songbird migration by using geolocators. Science 323:896.
+SUTTON, G. M. 1967. Oklahoma birds. University of Oklahoma Press, Norman.
+SUTTON, G. M. 1986. Birds worth watching. University of Oklahoma Press, Norman, Oklahoma.
+TAYLOR, C. M. AND D. R. NORRIS. 2010. Population dynamics in migratory networks. Theoretical Ecology 3:65-73.
+TERRELL G. R., AND D. W. SCOTT. 1992. Variable kernel density estimation. The Annals of Statistics 20:1236-1265.
+TØTTRUP, A. P., R. H. G. KLAASSEN, R. STRANDBERG, K. THORUP, M. W. KRISTENSEN, P. S. JØRGENSEN, J. FOX, V. AFANASYEV, C. RAHBEK, AND T. ALERSTAM. 2012. The annual cycle of a trans-equatorial Eurasian-African passerine migrant: different spatio-temporal strategies for autumn and spring migration. Proceedings of the Royal Society B 279:1008-1016.
+WINKER, K., J. H. RAPPOLE, AND M. A. RAMOS.  1990.  Population dynamics of the Wood 
+	Thrush in southern Veracruz, Mexico.  Condor  92:444-460.
+WITHGOTT, J. H. 1991. Pre-migratory roosting behavior of Scissor-tailed Flycatchers in Oklahoma. Bulletin of the Oklahoma Ornithological Society 24:18-21.
+
+
+
+
